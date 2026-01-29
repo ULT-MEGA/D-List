@@ -1,0 +1,3 @@
+<form id="recordForm" action="submit.html" method="POST">
+  <button type="submit">Submit Record</button>
+</form>
